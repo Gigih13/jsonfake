@@ -60,5 +60,27 @@
     { "id": 1, "numero": 1, "capacidade": 4, "status": "Livre" },
     { "id": 2, "numero": 2, "capacidade": 2, "status": "Reservado" },
     { "id": 3, "numero": 3, "capacidade": 6, "status": "Ocupado" }
+  ],
+  "itensCardapio": [
+    { "id": 1, 
+     "nome": "Bruschetta", 
+     "categoria": "Entrada", 
+     "preco": 25.9 },
+  
+    { "id": 2, 
+     "nome": "Filé à Parmegiana", 
+     "categoria": "Prato Principal", 
+     "preco": 59.9 },
+  
+    { "id": 3, 
+     "nome": "Pudim de Leite",
+     "categoria": "Sobremesa", 
+     "preco": 14.0 },
+  
+    { "id": 4, "nome": 
+     "Suco de Laranja", 
+     "categoria": "Bebida", 
+     "preco": 9.0 }
+  
   ]
 }
