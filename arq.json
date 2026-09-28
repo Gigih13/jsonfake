@@ -1,4 +1,5 @@
- "itensCardapio": [
+{
+"itensCardapio": [
     { "id": 1, 
      "nome": "Bruschetta", 
      "categoria": "Entrada", 
