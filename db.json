@@ -82,5 +82,16 @@
      "categoria": "Bebida", 
      "preco": 9.0 }
   
+  ],
+    "reservas": [
+    {
+      "id": 1,
+      "nomeCliente": "Ana Souza",
+      "telefoneContato": "98888-4444",
+      "data": "2026-09-25",
+      "horario": "20:00",
+      "quantidadePessoas": 2,
+      "idMesa": 2
+    }
   ]
 }
